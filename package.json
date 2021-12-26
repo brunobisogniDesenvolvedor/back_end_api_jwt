@@ -1,0 +1,18 @@
+{
+  "name": "back_end_api_jwt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "bruno de a. bisogni <65958473+brunobisogniDesenvolvedor@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.3",
+    "nodemon": "^2.0.15"
+  }
+}
